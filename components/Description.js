@@ -15,7 +15,7 @@ function Description() {
                 <div className='color-box translate-x-20 md:translate-x-36'></div>
                 <div className='flex flex-col items-center text-white cursor-pointer text-center'>
                     <img className='w-8 mb-1' src="/Playstation_Img/add.png" alt="Add to cart button" />
-                    <p className='text-lg'><small>Add to Cart</small></p>
+                    <p className='w-20'><small>Add to Cart</small></p>
                 </div>
             </div>
         </div>
